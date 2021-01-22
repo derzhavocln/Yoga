@@ -133,9 +133,10 @@ body {
 }
 
 .header_intro__btn-reg {
+    /*width: ;*/
     color: #E65C7B;
 
-    border: 1px solid;
+    /*border: 1px solid;*/
     display: flex;
     justify-content: center;;
 }
@@ -148,6 +149,10 @@ body {
     text-align: left;
 
     /*border:1px solid #000;*/
+}
+
+.header_intro__subtitle{
+
 }
 
 
